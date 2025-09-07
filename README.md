@@ -35,4 +35,10 @@ O projeto também salva automaticamente as tarefas em um arquivo (`tarefas.txt`)
    git clone https://github.com/seu-usuario/gerenciador-tarefas-tkinter.git
    cd gerenciador-tarefas-tkinter
 
+✨ Autor
+
+👤 Miqueias Raoni de Abreu
+📍 Estudante de Ciência da Computação
+🔗 LinkedIn
+https://www.linkedin.com/in/raoni-abreu-mra2022/
 
