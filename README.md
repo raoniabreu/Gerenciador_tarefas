@@ -34,3 +34,5 @@ O projeto também salva automaticamente as tarefas em um arquivo (`tarefas.txt`)
    ```bash
    git clone https://github.com/seu-usuario/gerenciador-tarefas-tkinter.git
    cd gerenciador-tarefas-tkinter
+
+
