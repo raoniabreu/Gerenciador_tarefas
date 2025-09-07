@@ -1,28 +1,44 @@
-# ✅ Gerenciador de Tarefas em Python (Tkinter)
+# 📋 Gerenciador de Tarefas em Python (Tkinter)
 
-Um simples **gerenciador de tarefas** feito em Python com interface gráfica usando Tkinter.  
-As tarefas ficam salvas em um arquivo `tarefas.txt`, garantindo persistência mesmo após fechar o programa.
+Este é um simples **Gerenciador de Tarefas** feito em **Python** com **Tkinter**, que permite adicionar, listar e apagar tarefas de forma prática.  
+O projeto também salva automaticamente as tarefas em um arquivo (`tarefas.txt`), garantindo que nada seja perdido ao fechar o programa.  
+
+---
 
 ## 🚀 Funcionalidades
-- Adicionar tarefas
-- Listar todas as tarefas
-- Apagar tarefas com confirmação
-- Persistência de dados em `tarefas.txt`
+- ➕ **Adicionar Tarefas**  
+- 🗑️ **Apagar Tarefas**  
+- 💾 **Salvar automaticamente** em `tarefas.txt`  
+- 📂 **Carregar tarefas salvas** ao abrir o programa  
+- 🎨 **Interface simples e estilizada** com botões coloridos  
 
-## 🖼️ Interface
-A interface é feita com **Tkinter**, a biblioteca nativa de GUIs do Python.
+---
 
-![Exemplo da interface](exemplo.png)
+## 🖼️ Demonstração
+
+> Exemplo de como o programa aparece:
+
+![Gerenciador de Tarefas](screenshot.png)  
+*(adicione um print da tela do programa com o nome `screenshot.png` na pasta do projeto)*
+
+---
 
 ## 📦 Tecnologias utilizadas
-- Python 3
-- Tkinter (GUI)
-- Manipulação de arquivos (`tarefas.txt`)
+- [Python 3](https://www.python.org/)  
+- [Tkinter (GUI nativa do Python)](https://docs.python.org/3/library/tkinter.html)  
 
-## ▶️ Como rodar o projeto
-Clone o repositório e execute o arquivo principal:
+---
 
-```bash
-git clone https://github.com/SEU_USUARIO/gerenciador_tarefas.git
-cd gerenciador_tarefas
-python gerenciador_tarefas.py
+## ▶️ Como executar
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/gerenciador-tarefas-tkinter.git
+   cd gerenciador-tarefas-tkinter
+
+✨ Autor
+
+👤 Miqueias Raoni de Abreu
+📍 Estudante de Ciência da Computação
+🔗 LinkedIn
+https://www.linkedin.com/in/raoni-abreu-mra2022/
+
